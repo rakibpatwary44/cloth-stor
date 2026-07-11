@@ -4,7 +4,7 @@ A modern and responsive e-commerce product showcase website built with **React**
 
 ## 🚀 Live Demo
 
-🔗 https://your-netlify-link.netlify.app
+🔗cloth-stor-online.netlify.app
 
 ## 📸 Screenshot
 
@@ -43,13 +43,13 @@ A modern and responsive e-commerce product showcase website built with **React**
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/rakib-pateary44/cloth-stor.git
 ```
 
 Go to the project folder:
 
 ```bash
-cd your-repository
+cd cloth-stor
 ```
 
 Install dependencies:
@@ -109,9 +109,9 @@ Contributions are welcome!
 
 **Rakib Patwary**
 
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Email: your-email@example.com
+- GitHub: https://github.com/rakibpatwary44
+- LinkedIn: https://linkedin.com/in/codewithrakib1
+- Email: codewithrakib1@gmail.com
 
 ---
 
