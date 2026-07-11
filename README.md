@@ -1,16 +1,122 @@
-# React + Vite
+# 🛍️ ShopEase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive e-commerce product showcase website built with **React**, **Vite**, **Tailwind CSS**, and **Fake Store API**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://your-netlify-link.netlify.app
 
-## React Compiler
+## 📸 Screenshot
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Project Screenshot](./screenshot.png)
 
-## Expanding the ESLint configuration
+> Save your project screenshot as **screenshot.png** in the root folder of your project.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🛒 Display all products from Fake Store API
+- 📱 Fully responsive design
+- 🎨 Modern UI with Tailwind CSS
+- ⭐ Product rating display
+- 💲 Product price display
+- 📂 Product category display
+- 🖼️ Product image with hover animation
+- ⚡ Fast performance using Vite
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- Vite
+- Tailwind CSS
+- Axios
+- React Icons
+- Fake Store API
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
+
+Go to the project folder:
+
+```bash
+cd your-repository
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 🌐 API Used
+
+Fake Store API
+
+https://fakestoreapi.com/products
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+│── assets/
+│── components/
+│── pages/
+│── App.jsx
+│── main.jsx
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push the branch
+5. Create a Pull Request
+
+---
+
+## 👨‍💻 Developer
+
+**Rakib Patwary**
+
+- GitHub: https://github.com/your-github-username
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- Email: your-email@example.com
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+⭐ If you like this project, don't forget to give it a star!
