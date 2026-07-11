@@ -4,7 +4,7 @@ A modern and responsive e-commerce product showcase website built with **React**
 
 ## 🚀 Live Demo
 
-🔗[cloth-stor-online.netlify.app](https://cloth-stor-online.netlify.app/product)
+🔗[[cloth-stor-online.netlify.app](https://cloth-stor-online.netlify.app/product)](https://cloth-stor-online.netlify.app/)
 
 ## 📸 Screenshot
 
